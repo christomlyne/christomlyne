@@ -12,7 +12,6 @@ contact: 0712100838
 - I love hiking and exploring new places.
 - I’m also an avid gamer and enjoy strategy games.
 
-
 <!---
 christomlyne/christomlyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @christomlyne
+- 👋 Hi, I’m @Tomlyne
 - 👀 I’m interested and excited about leveraging AI and Machine Learning to solve real-world problems. Currently exploring new ways to contribute to open-source projects!
 
  ...## 🎯 My Mission
@@ -6,7 +6,7 @@ I strive to build scalable applications that make a positive impact on users' li
 
 - 📫 How to reach me           
  Email: Tomlyneapoka@gmail.com
-Hi 👋 My name is Chris Tomlyne
+Hi 👋 My name is Tomlyne
 ==============================
 
 Web developer and designer
